@@ -1,6 +1,6 @@
-# meetup
+# Meetup
 
-> A Vue.js project
+> A Social Network project
 
 ## Build Setup
 
